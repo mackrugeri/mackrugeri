@@ -33,7 +33,8 @@ I work with AI agents that automate compliance verification, connect external sy
 | **Agent interoperability** | Agent2Agent (A2A) Protocol · Model Context Protocol (MCP) |
 | **Learning & exploration** | Agentic RAG with LlamaIndex · Hugging Face quantization · On-device AI |
 
-### Across the stack
+<details>
+<summary><strong>Across the stack — full toolkit</strong></summary>
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -48,6 +49,8 @@ I work with AI agents that automate compliance verification, connect external sy
 | **CI/CD & version control** | Git · GitHub Actions · CircleCI |
 | **Testing** | RSpec · Capybara · Factory Bot |
 | **Architecture & security** | View-Model architecture · Public-private key asymmetric cryptography |
+
+</details>
 
 <details>
 <summary><strong>Cloud infrastructure — the services I work with</strong></summary>
@@ -75,7 +78,8 @@ Machine learning · Convolutional neural networks (CNNs) · OpenCV · Digital im
 
 </details>
 
-### Learning with intent
+<details>
+<summary><strong>Certifications, education & recognition</strong></summary>
 
 Coursework completed through **DeepLearning.AI**:
 
@@ -88,6 +92,8 @@ Coursework completed through **DeepLearning.AI**:
 
 **BCS (Hons), Computer Science** — FAST NUCES, Class of 2021  
 **Microsoft Imagine Cup** — Silver Medalist · National Finalist, 2019–2020
+
+</details>
 
 ---
 
